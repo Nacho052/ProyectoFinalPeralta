@@ -1,0 +1,254 @@
+[
+    {
+        "id": "1",
+        "descripcion": "Big Mac®",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_BigMac_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 9000
+    },
+    {
+        "id": "2",
+        "descripcion": "Quarter Pounder®* with Cheese",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 7500
+    },
+    {
+        "id": "3",
+        "descripcion": "Double Quarter Pounder®* with Cheese",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/202201_3426-005_DoubleQuarterPounderwithCheese_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 8600
+    },
+    {
+        "id": "4",
+        "descripcion": "Quarter Pounder®* Deluxe",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_4282_QuarterPounderCheeseDeluxe_Shredded_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 8000
+    },
+    {
+        "id": "5",
+        "descripcion": "McDouble®",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_McDouble_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 7500
+    },
+    {
+        "id": "6",
+        "descripcion": "Quarter Pounder®* with Cheese Bacon",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_4295-005_BaconQPC_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 7000
+    },
+    {
+        "id": "7",
+        "descripcion": "Cheeseburger",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_Cheeseburger_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 8000
+    },
+    {
+        "id": "8",
+        "descripcion": "Double Cheeseburger",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_DoubleCheeseburger_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 7500
+    },
+    {
+        "id": "9",
+        "descripcion": "Hamburger: The Classic McDonald's Burger",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_Hamburger_832x472:nutrition-calculator-tile",
+        "tipo": "hamburguesa",
+        "precio": 5500
+    },
+    {
+        "id": "10",
+        "descripcion": "Coca-Cola®",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202112_0521_MediumCoke_Glass_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 3000
+    },
+    {
+        "id": "11",
+        "descripcion": "Sprite®",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_MediumSprite_Glass_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 3000
+    },
+    {
+        "id": "12",
+        "descripcion": "Fanta® Orange",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_MediumFantaOrange_Glass_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio":3000
+    },
+    {
+        "id": "13",
+        "descripcion": "Lemonade",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/McDonaldsLemonade_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 2500
+    },
+    {
+        "id": "14",
+        "descripcion": "Minute Maid® Premium Orange Juice",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/Header_MediumMinuteMaidPremiumOrangeJuice_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 2500
+    },
+    {
+        "id": "15",
+        "descripcion": "Agua Dasani®",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202106_5474_DasaniBottledWater_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 3500
+    },
+    {
+        "id": "16",
+        "descripcion": "Dr Pepper®",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201905_0421_MediumDrPepper_Glass_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 4000
+    },
+    {
+        "id": "17",
+        "descripcion": "Diet Coke®",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202112_0652_MediumDietCoke_Glass_2_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 3500
+    },
+    {
+        "id": "18",
+        "descripcion": "Sweet Tea",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202105_3429_SweetTea_Glass_A1_832x472:nutrition-calculator-tile",
+        "tipo": "bebida",
+        "precio": 2500
+    },
+    {
+        "id": "19",
+        "descripcion": "McFlurry® with OREO® Cookies",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_3832_OREOMcFlurry_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 4700
+    },
+    {
+        "id": "20",
+        "descripcion": "McFlurry® with M&M'S® Candies",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_3830_MandMMcFlurry_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 4700
+    },
+    {
+        "id": "21",
+        "descripcion": "Cono de Vainilla",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202106_0336_LargeVanillaCone_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 3000
+    },
+    {
+        "id": "22",
+        "descripcion": "Chocolate Shake",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1509_MediumChocolateShake_Glass_A1_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 4000
+    },
+    {
+        "id": "23",
+        "descripcion": "Vanilla Shake",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1598_MediumVanillaShake_Glass_A1_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 4000
+    },
+    {
+        "id": "24",
+        "descripcion": "Strawberry Shake",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1513_MediumStrawberryShake_Glass_A1_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 4000
+    },
+    {
+        "id": "25",
+        "descripcion": "Hot Fudge Sundae",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0337_HotFudgeSundae_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 4200
+    },
+    {
+        "id": "26",
+        "descripcion": "Hot Caramel Sundae",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0345_CaramelSundae_832x472:nutrition-calculator-tile",
+        "tipo": "postre",
+        "precio": 4200
+    },
+    {
+        "id": "27",
+        "descripcion": "Caramel Macchiato",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2804_MediumCaramelMacchiato_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 3660
+    },
+    {
+        "id": "28",
+        "descripcion": "Cappuccino",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2692_MediumCappuccino_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 3660
+    },
+    {
+        "id": "29",
+        "descripcion": "Caramel Cappuccino",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1517_MediumCaramelCappuccino_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 3660
+    },
+    {
+        "id": "30",
+        "descripcion": "French Vanilla Cappuccino",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1372_MediumVanillaCappuccino_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 3660
+    },
+    {
+        "id": "31",
+        "descripcion": "Mocha",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2731_MediumMocha_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 3660
+    },
+    {
+        "id": "32",
+        "descripcion": "Americano",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1318_MediumAmericano_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 3660
+    },
+    {
+        "id": "33",
+        "descripcion": "Premium Roast Coffee",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0321_MediumCoffee_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 3660
+    },
+    {
+        "id": "34",
+        "descripcion": "Iced Caramel Macchiato",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2743_MediumIcedCaramelMacchiato_Glass_A1_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 4000
+    },
+    {
+        "id": "35",
+        "descripcion": "Iced Mocha",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_7659_MediumIcedMocha_Glass_A1_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 5000
+    },
+    {
+        "id": "36",
+        "descripcion": "Iced Caramel Coffee",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0379_MediumIcedCaramelLatte_Glass_A1_832x472:nutrition-calculator-tile",
+        "tipo": "cafe",
+        "precio": 4700
+    }
+]
